@@ -15,7 +15,7 @@
   "license": "MIT",
   "description": "Scrap all settlement from indonesian banks",
   "dependencies": {
-    "@google-cloud/vision": "^2.4.2",
+    "@google-cloud/vision": "^3.0.0",
     "consola": "^2.15.3",
     "date-format": "^4.0.10",
     "html-to-text": "^8.2.0",
