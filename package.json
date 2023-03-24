@@ -41,6 +41,6 @@
   "homepage": "https://github.com/fdciabdul/mutasi-scraper#readme",
   "devDependencies": {
     "jest": "^28.1.2",
-    "jest-puppeteer": "6.1.0"
+    "jest-puppeteer": "8.0.6"
   }
 }
